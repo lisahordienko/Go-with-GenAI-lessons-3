@@ -20,6 +20,4 @@ https://github.com/lisahordienko/Go-with-GenAI-lessons-3
 
 ## 4. Скріншоти / відео виконання
 
-<!-- TODO(звіт-4): видаліть цей HTML-коментар і вставте посилання на
-     Google Doc / відео зі скріншотами роботи програми та виконаного
-     завдання. -->
+https://drive.google.com/file/d/1SkB92cGelQDRyC_x60SEz-Gw8VKybHDe/view?usp=sharing
